@@ -1,0 +1,8 @@
+{
+  "description": "Appify-AI: A developer tool that converts Google AI Studio links into installable Android-ready web app packages with AI-generated icons and manifests.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "name": "App"
+}
